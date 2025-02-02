@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/EvanxLiu/University_Assignment_Tracker/issues"
   },
-  "homepage": "https://github.com/EvanxLiu/University_Assignment_Tracker#readme"
+  "homepage": "https://github.com/EvanxLiu/University_Assignment_Tracker#readme",
+  "dependencies": {
+    "web-vitals": "^4.2.4"
+  }
 }
